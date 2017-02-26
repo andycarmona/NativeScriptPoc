@@ -1,0 +1,1 @@
+C:\xampp\htdocs\HelloWorld2\platforms\android\src\main\assets\app\views\list\list.component.js

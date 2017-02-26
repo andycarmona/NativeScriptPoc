@@ -1,0 +1,39 @@
+{
+    "heroes": [
+        {
+            "id": 1,
+            "hid": 1,
+            "name": "Saitama"
+        },
+        {
+            "id": 2,
+            "hid": 2,
+            "name": "Genos"
+        },
+        {
+            "id": 3,
+            "hid": 3,
+            "name": "Watchdog Man"
+        },
+        {
+            "id": 4,
+            "hid": 4,
+            "name": "Metal BAt"
+        },
+        {
+            "id": 5,
+            "hid": 5,
+            "name": "Puri Puri Prisoner"
+        },
+        {
+            "id": 6,
+            "hid": 10,
+            "name": "Speed of sound, Sonic"
+        },
+        {
+            "id": 7,
+            "hid": 11,
+            "name": "Tatsumaki"
+        }
+    ]
+}

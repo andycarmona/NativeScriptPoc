@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\xampp\\htdocs\\HelloWorld2\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-anydpi-v21\\mapbox_info_icon_default.xml",
+        "source": "C:\\xampp\\htdocs\\HelloWorld2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\5.0.0-SNAPSHOT\\res\\drawable-anydpi-v21\\mapbox_info_icon_default.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\HelloWorld2\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-anydpi-v21\\mapbox_info_icon_selected.xml",
+        "source": "C:\\xampp\\htdocs\\HelloWorld2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\5.0.0-SNAPSHOT\\res\\drawable-anydpi-v21\\mapbox_info_icon_selected.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\HelloWorld2\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\xampp\\htdocs\\HelloWorld2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\HelloWorld2\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\xampp\\htdocs\\HelloWorld2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]

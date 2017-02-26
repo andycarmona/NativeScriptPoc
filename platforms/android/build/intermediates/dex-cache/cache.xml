@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-design-25.2.0_553fc1ef28ef55a1e206350a8ef15b364a5526c3.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-base-10.2.0_c921a722e12da2439fb81f8506446b8bf6dc3641.jar" />
+    </item>
+    <item
+        jar="C:\Users\andywaz\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\okhttp-3.6.0_239dbd5191eaf77e0737a862bfbde8baba21590b.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c74c28a44292b6480afe69ddb2c0974f45393a3a">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.jakewharton.timber-timber-4.5.1_d3230bd5786a0dca5b7dedbf6f4cf84e7e08a03e.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-animated-vector-drawable-25.2.0_167e0bb39ca7b165b21cfba14143171d51abce2f.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-recyclerview-v7-25.2.0_66f4949cfe88e5c1de0d56e4f826896d8980d62f.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-v4-25.2.0_37f1f524503d49a415ba8312a82f915a57c8a8d1.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-basement-10.2.0_28adc67678cf9b6eca76ba8848c11de3ba1d3509.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-compat-25.2.0_17c1d1bfc3f0205a81d70a9fd12082b9d624843e.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\HelloWorld2\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\binding-generator_1c23335b9ce1c6ec129b682d9099ac4d97b87386.jar" />
+    </item>
+    <item
+        jar="C:\Users\andywaz\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\gson-2.8.0_e5c2efc86fedd8b8ebae23b379e02f8a99b226c2.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\5.0.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3e181f014e8f07c1ecd78dd2330a690d3c6738bd">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.mapbox.mapboxsdk-mapbox-android-sdk-5.0.0-SNAPSHOT_1e3c2d1b9e3d797c9801e0bf7ccd717ee74811ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\andywaz\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-geojson\2.0.0-beta.2\e21a262439ffc9da417f2fa9cbd0bc79b96a731d\mapbox-java-geojson-2.0.0-beta.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e21a262439ffc9da417f2fa9cbd0bc79b96a731d">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\mapbox-java-geojson-2.0.0-beta.2_d2b6c02df9e5852102eec7cca026d318eacfe4a7.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-appcompat-v7-25.2.0_d81c9883ba98065fa30ad03dcaae91cc88832ebd.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-telemetry\2.0.0-beta.2\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8fc7f3c81627f0a9f0c59e69854abd9c01b279e6">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.mapbox.mapboxsdk-mapbox-android-telemetry-2.0.0-beta.2_27d7ab8921a78e94b4dc43dac33df9aaed8b43e9.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.mapzen.android\lost\2.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b7184ba67437a5689cfb166f422feb8618088732">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.mapzen.android-lost-2.1.2_4857a11817f96a145f983833c36a2103ec8270d0.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-media-compat-25.2.0_d1c43def5f069216d1860bdc51583058d40fc762.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-fragment-25.2.0_369c8595418f4ed4bd75282c678ffba173200695.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\HelloWorld2\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\HelloWorld2-runtime-unspecified_de3b9ebc6377521a35736797e76f904b7e22b784.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-transition-25.2.0_bebd70780910bd8de30c1fb7040d57ecbdc35dfc.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-maps-10.2.0_6a35eb5d9128eabb4bb11eb5fda63a3b1a61a0c3.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-widgets-release_dfb0edcf977aee7ef9a6269fa9bb91f1425ab648.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-tasks-10.2.0_7206eca8f4b685b6184a96bb9c9cfd2f4d289590.jar" />
+    </item>
+    <item
+        jar="C:\Users\andywaz\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-core\2.0.0-beta.2\1462dba01795938387242d211ec63aed5243d8b9\mapbox-java-core-2.0.0-beta.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1462dba01795938387242d211ec63aed5243d8b9">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\mapbox-java-core-2.0.0-beta.2_cc9dfd49a910ab0312e58565e645df41e2902249.jar" />
+    </item>
+    <item
+        jar="C:\Users\andywaz\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\support-annotations-25.2.0_6cecbb13226accbb8f064691742c422ad60219c1.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-core-utils-25.2.0_e99fda2a429114612283cab5f129885feaf2a2ed.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-vector-drawable-25.2.0_8f05c2478328b81d48c6d8576a9797a8de61133b.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-core-ui-25.2.0_5fcdfa84356f9e1cc2851708a0ffae700bb852a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\andywaz\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\xampp\htdocs\HelloWorld2\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\okio-1.11.0_6d06e85da1c4108cba253b0450b25ab7665ebe75.jar" />
+    </item>
+
+</items>
